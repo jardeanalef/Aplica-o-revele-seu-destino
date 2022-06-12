@@ -37,7 +37,7 @@ https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/ra
 ```js
 // 1. Variáveis
 // let estaChovendo = true
-// const meuNome = "Mayk"
+// const meuNome = "Jardean"
 
 
 // 2. Tipos de Dados 
@@ -89,8 +89,8 @@ https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/ra
 
   // Object
   // const pessoa = {
-  //   nome: "Mayk",
-  //   idade: 38,
+  //   nome: "jardean",
+  //   idade: 27,
   //   filhos: ["K", "E", "J", "L", "G"]
   // }
   // console.log(pessoa.filhos[3])
